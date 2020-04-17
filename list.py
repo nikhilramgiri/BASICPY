@@ -187,7 +187,7 @@ for i in l:
     if i in range(10,13):
         c=c+1
 print(c)
-'''
+
 #32
 c=0
 l= [1,1,3,2,[12,1,2],11,2,[5,4],6,4]
@@ -198,7 +198,9 @@ for i in range(len(l)):
             print("sublist---",l[i])
     except:
         print(end="")
+,,,
 
+#33
 
 
 
